@@ -1,4 +1,5 @@
 /node_modules
+<<<<<<< HEAD
 /build# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -22,3 +23,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+/build
+/venv
+>>>>>>> 705d1475cf9c81e81e365efb227ff833af62a774
